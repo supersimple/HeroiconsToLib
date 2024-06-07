@@ -1,0 +1,5 @@
+%{
+  "elixir_xml_to_map": {:hex, :elixir_xml_to_map, "3.1.0", "4d6260486a8cce59e4bf3575fe2dd2a24766546ceeef9f93fcec6f7c62a2827a", [:mix], [{:erlsom, "~> 1.4", [hex: :erlsom, repo: "hexpm", optional: false]}], "hexpm", "8fe5f2e75f90bab07ee2161120c2dc038ebcae8135554f5582990f1c8c21f911"},
+  "erlsom": {:hex, :erlsom, "1.5.1", "c8fe2babd33ff0846403f6522328b8ab676f896b793634cfe7ef181c05316c03", [:rebar3], [], "hexpm", "7965485494c5844dd127656ac40f141aadfa174839ec1be1074e7edf5b4239eb"},
+  "sweet_xml": {:hex, :sweet_xml, "0.7.4", "a8b7e1ce7ecd775c7e8a65d501bc2cd933bff3a9c41ab763f5105688ef485d08", [:mix], [], "hexpm", "e7c4b0bdbf460c928234951def54fe87edf1a170f6896675443279e2dbeba167"},
+}
